@@ -1,7 +1,7 @@
 {
-  "name": "ethereumjs-units",
+  "name": "puffscoinjs-units",
   "version": "0.2.0",
-  "description": "Ethereum unit conversion.",
+  "description": "PUFFScoin unit conversion.",
   "main": "index.js",
   "scripts": {
     "coverage": "istanbul cover _mocha",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereumjs/ethereumjs-units.git"
+    "url": "git+https://github.com/puffscoin/puffscoinjs-units.git"
   },
   "keywords": [
     "ethereum",
@@ -22,9 +22,9 @@
   "author": "Alex Beregszaszi <alex@rtfs.hu>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethereumjs/ethereumjs-units/issues"
+    "url": "https://github.com/puffscoin/puffscoinjs-units/issues"
   },
-  "homepage": "https://github.com/ethereumjs/ethereumjs-units#readme",
+  "homepage": "https://github.com/puffscoin/puffscoinjs-units#readme",
   "dependencies": {
     "bignumber.js": "^2.3.0"
   },
