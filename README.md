@@ -16,7 +16,7 @@ Units.convert('1', 'puffs', 'wei') // '1000000000000000000'
 Units.convert('1', 'wei', 'puffs') // '0.000000000000000001'
 Units.convert('1', 'finney', 'puffs') // '0.001'
 
-Units.lazyConvert('1 eth', 'wei') // '1000000000000000000 wei'
+Units.lazyConvert('1 puffs', 'wei') // '1000000000000000000 wei'
 Units.lazyConvert('1 wei', 'puffs') // '0.000000000000000001 puffs'
 Units.lazyConvert('1 finney', 'puffs') // '0.001 puffs'
 ```
